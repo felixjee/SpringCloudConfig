@@ -1,6 +1,6 @@
 user: user1
 server:
-  port: 8788
+  port: 8789
 
 spring:
   application:
