@@ -4,4 +4,4 @@ server:
 
 spring:
   application:
-    name: helo ${server.port}
+    name: config-client:${server.port}
