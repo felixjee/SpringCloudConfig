@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 user: user5
-=======
-user: user3
->>>>>>> ad2b3eab2c96d299c5ca6bddb8aea8c3641531ee
 server:
   port: 8789
 
