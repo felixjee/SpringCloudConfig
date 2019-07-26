@@ -7,3 +7,5 @@ spring:
     name: config-client:${server.port}
 
 2c95e96b0ab34caf90c8942e1ce9e714
+
+b2391ff966274e658756b9963c77ed9a
