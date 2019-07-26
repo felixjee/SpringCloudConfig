@@ -5,3 +5,5 @@ server:
 spring:
   application:
     name: config-client:${server.port}
+
+2c95e96b0ab34caf90c8942e1ce9e714
